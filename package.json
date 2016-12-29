@@ -11,7 +11,7 @@
     "screenshot"
   ],
   "author": "Fabrice Weinberg <Fabrice@weinberg.me>",
-  "repository": "https://github.com/FWeinb/electron-screenshot-app",
+  "repository": "https://github.com/bymaximus/electron-screenshot-app",
   "license": "MIT",
   "devDependencies": {
     "electron": "1.4.5",
